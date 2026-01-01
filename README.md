@@ -7,8 +7,8 @@
 
 ## 🚀 About Me
 
-I am an accomplished **Data Scientist with 3+ years of experience** delivering data-driven solutions across **manufacturing, finance, and administrative domains**. 
-My work sits at the intersection of **statistical theory, machine learning, and scalable data engineering**.
+Accomplished **Data Scientist with 3+ years of experience** delivering data-driven solutions across **manufacturing, finance, and administrative domains**. 
+Explores the intersection of **statistical theory, machine learning, and complex sampling designs**.
 
 ---
 
