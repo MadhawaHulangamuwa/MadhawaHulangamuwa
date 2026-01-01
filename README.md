@@ -37,11 +37,3 @@ Explores the intersection of **statistical theory, machine learning, and complex
 - Databricks, Microsoft Fabric, AWS,  GCP, IBM Cloud   
 
 ---
-
-## 📫 Get in Touch
-
-- 💼 LinkedIn: *(https://www.linkedin.com/in/madhawa-hulangamuwa-073026165/)*  
-- 📧 Email: *(madhawahulangamuwa@gmail.com)*  
-- 📊 GitHub: *(https://github.com/MadhawaHulangamuwa)*
-
----
