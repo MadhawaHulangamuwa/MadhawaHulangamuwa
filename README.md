@@ -22,6 +22,7 @@ Explores the intersection of **statistical theory, machine learning, and complex
 
 ---
 
+<!--
 ## 🛠️ Technical Skills
 
 ### Programming & Data
@@ -35,5 +36,6 @@ Explores the intersection of **statistical theory, machine learning, and complex
 
 ### Cloud & Analytics Platforms
 - Databricks, Microsoft Fabric, AWS,  GCP, IBM Cloud   
+-->
 
 ---
